@@ -13,7 +13,7 @@ Nothing will show up, but if there are files in the folder they will be listed a
 # 6 - What is a quick way to create a new file?
 touch
 # 7 - Run 'git --version' in your terminal. What is the output?
-git version 2.15.0
+git version 2.33.0
 # 8 - Why would you run the command 'git status'?
 to check what changes youve made
 # 9 - What does the command 'git add .' do?
