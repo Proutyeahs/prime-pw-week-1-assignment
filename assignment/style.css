@@ -4,7 +4,7 @@ body {
 }
 /* Make the header and footer a different color from the background */
 header, footer {
-    background-color: rgb(208, 208, 208);
+    background-color: hotpink;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -13,9 +13,11 @@ h1 {
 /* Make your p tag a different color and italic */
 p {
     color: brown;
+    font-style: italic;
 }
 /* Put a border around your image */
 img {
+    align-items: center;
     border-color: aliceblue;
     border-bottom: 5px;
     border-right: 5px;
