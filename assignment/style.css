@@ -15,7 +15,7 @@ p {
     color: brown;
 }
 /* Put a border around your image */
-img {
+.img {
     border: 200px;
 }
 /* Change the font-family of your list */
