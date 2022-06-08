@@ -18,9 +18,8 @@ p {
 /* Put a border around your image */
 img {
     align-items: center;
-    border-color: aliceblue;
-    border-bottom: 5px;
-    border-right: 5px;
+    border-color: black;
+    border: 50px;
 }
 /* Change the font-family of your list */
 ul {
