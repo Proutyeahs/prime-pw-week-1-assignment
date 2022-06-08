@@ -17,9 +17,9 @@ p {
 }
 /* Put a border around your image */
 img {
-    border: 5px;
+    border: 50px solid green;
 }
 /* Change the font-family of your list */
 ul {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
