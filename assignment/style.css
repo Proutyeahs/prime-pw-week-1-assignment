@@ -17,7 +17,7 @@ p {
 }
 /* Put a border around your image */
 img {
-    align: center
+    width: 100%;
     border-color: black;
     border: 50px;
 }
