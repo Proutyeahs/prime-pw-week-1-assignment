@@ -22,7 +22,8 @@ img {
     border: 5px solid yellow;
     box-shadow: 0 2px 3px black;
     margin-top: 4px;
-    display: block;
+    margin-right: auto;
+    margin-left: auto;
     width: 50%;
 }
 /* Change the font-family of your list */
