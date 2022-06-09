@@ -21,8 +21,8 @@ p {
 img {
     border: 5px solid yellow;
     box-shadow: 0 2px 3px black;
-    text-align: center;
-    margin-top: 3px;
+    align-items: center;
+    margin-top: 4px;
 }
 /* Change the font-family of your list */
 ul {
