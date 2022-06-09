@@ -5,7 +5,7 @@ body {
 /* Make the header and footer a different color from the background */
 header, footer {
     background-color: hotpink;
-    padding: 10px 5%;
+    padding: 5px 5%;
     box-shadow: 0 2px 3px black;
 }
 /* Align the h1 containing your name in the center of the header*/
